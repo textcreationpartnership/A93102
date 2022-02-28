@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vveepers: or, the bed of snakes broken. Wit vitiated, and made a pander to wickednesse; instanced in a pack of knaves (calling themselves servants to the late King) worthy the anger of the present age; and the wonder and indignation of all posterity. Six cupping-glasses, clapt to the cloven feet of the six dæmons, who govern the times by turns from Munday to Saturday annually. / By S.S.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93102</idno>
+            <idno type="STC">Wing S3171</idno>
+            <idno type="STC">Thomason E674_34</idno>
+            <idno type="STC">ESTC R207208</idno>
+            <idno type="EEBO-CITATION">99866277</idno>
+            <idno type="PROQUEST">99866277</idno>
+            <idno type="VID">118544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118544)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vveepers: or, the bed of snakes broken. Wit vitiated, and made a pander to wickednesse; instanced in a pack of knaves (calling themselves servants to the late King) worthy the anger of the present age; and the wonder and indignation of all posterity. Six cupping-glasses, clapt to the cloven feet of the six dæmons, who govern the times by turns from Munday to Saturday annually. / By S.S.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bucknell, at the signe of the Golden-Lion in Duck-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.S. = Samuel Sheppard.</note>
+                  <note>The "cupping-glasses" is a critique of 6 newspapers.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregationalists --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118544:1" rendition="simple:additions"/>
+            <p>THE VVEEPERS: OR, The bed of Snakes broken.</p>
+            <p>Wit Vitiated, and made a Pander to Wickedneſſe; Inſtanced in a Pack of Knaves (calling themſelves Servants to the late King) worthy the Anger of the preſent Age; and the wonder and in<g ref="char:EOLhyphen"/>dignation of all Poſterity.</p>
+            <p>Six CUPPING-GLASSES, clapt to the cloven Feet of the ſix <hi>Daemons,</hi> who Govern the times by turns from <hi>Munday</hi> to <hi>Saturday</hi> Annually.</p>
+            <q>
+               <l>To wonder at paſt Prodigies forbeare,</l>
+               <l>
+                  <hi>AEgypt</hi> and <hi>Africa</hi> are blended here.</l>
+            </q>
+            <q>
+               <l>—Dajustum Sanctumque videri,</l>
+               <l>Noctem peccatis, &amp; fraudibus objice nubem.</l>
+            </q>
+            <p>By <hi>S. S.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Thomas Bucknell,</hi> at the Signe of the Golden-Lion in Duck-lane. 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118544:2"/>
+            <pb facs="tcp:118544:2"/>
+            <head>READER,</head>
+            <p>
+               <seg rend="decorInit">I</seg>F thou askeſt me what I mean to trouble the World, that is al<g ref="char:EOLhyphen"/>ready under ſuch a glut of Books, thou maiſt eaſily per<g ref="char:EOLhyphen"/>ceive, that I conſulted not at all with ad<g ref="char:EOLhyphen"/>vantaging my Name, or wooing publick Eſteem: For what I now write, I know there was much of naked Truth in it, and might poſſibly finde a more than common acceptance, aſwel for the Rarity, as the Re<g ref="char:EOLhyphen"/>ality of the Subject, &amp;c. If any <hi>Simplici<g ref="char:EOLhyphen"/>an</hi> take exceptions, let him turn the Buckle of his Girdle; he that manifeſts diſtemper at the peruſall of theſe Sheets, muſt of ne<g ref="char:EOLhyphen"/>ceſſity be a Knave or Foole, or both: If a<g ref="char:EOLhyphen"/>ny man deny me the liberty of ſpeaking
+<pb facs="tcp:118544:3"/>Truth, I will take it I ſay, I will take it: I am an Independent, I feare not: Some I doubt not ſo much doat upon a dirty <hi>Diur<g ref="char:EOLhyphen"/>nall,</hi> a <hi>Weekly Accompt,</hi> or a ridiculous, non-ſenſicall <hi>Mercury,</hi> that they will condemne me to no worſe Pennance than to bathe in blew Flames, for preſuming to bid Defi<g ref="char:EOLhyphen"/>ance to ſo reverend a Rabble— pew —mew — vew — A Degenerate, be<g ref="char:EOLhyphen"/>ſotted, inſaniated, ignorant People, a Mon<g ref="char:EOLhyphen"/>ſter onely fit to feed on ſuch Raffe and Garbage. I feare the Cenſure of Vertuous and Judicious Men: But I laugh at, and contemne the rage of theſe Cumane Aſſes, Maſquers, Mummers, painted Puppets, out-ſides Whiflers, walking Pictures, Shadowes, Gulls, Vi<g ref="char:EOLhyphen"/>zards, Butter-flies; I owe thee nothing, (Reader) and look for no favour at thy hands.</p>
+            <closer>God buy.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118544:3"/>
+            <head>THE WEEPERS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>S not this <hi>Mundus furioſus,</hi> a mad World? Is it not manifeſt that we are fallen into the dregs of time, we live in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt of the Iron Age, and muſt accordingly expect to feel the Dotages of a decrepit World? What is become of <hi>Truth, Sincerity, Hu<g ref="char:EOLhyphen"/>mility, &amp;c.</hi> Thoſe <hi>Antiqui mores,</hi> whither are they gone? Did they attend <hi>Aſtrea</hi> in<g ref="char:EOLhyphen"/>to heaven, and have left ſuch degenerous Succeſſors, as <hi>Crueltie, Pride, Fraud, Envy, Oppreſſion,</hi> &amp;c. Such qualities <hi>as abundantly juſtifie the worſt of Heathen. When all things are ruffled and confus'd, it is the Devills Holy-Day; and therefore Knaves Work Day. Pauſanias</hi> tels of a Chappel in <hi>A<g ref="char:EOLhyphen"/>crocorinth</hi> Dedicated to <hi>Fraud</hi> and <hi>Couſenage:</hi> thoſe Twin-God<g ref="char:EOLhyphen"/>deſſes may be fit Objects for the worſhip of Heathen; but 'tis pity they ſhould be ſo much adored by Chriſtians.</p>
+            <p>Thou haſt here (Reader) a full diſcovery of ſuch foule Impo<g ref="char:EOLhyphen"/>ſtors, that thou wilt ceaſe to wonder at any Monſtroſity or Prodi<g ref="char:EOLhyphen"/>gie upon Record: take heed of being blaſted, for I preſent to thy view the Peſts of the Age, men that live as if <hi>huge Sinnes would merit heaven</hi> by an <hi>Antiperiſtaſis:</hi> We know that a good aime, much leſſe a good pretence (ſuch as theſe Harpies uſe as a Cloak for their egregious, and moſt unparallel'd couzenage) cannot ju<g ref="char:EOLhyphen"/>ſtifie
+<pb n="2" facs="tcp:118544:4"/>a bad Action, and therefore we ought to be as ſolicitous about the lawfulneſſe of the means, as about the goodneſſe of the end Thoſe Gentlemen already bitten may poſſibly reſcue themſelves from future Circumventions, if they examine the lawfulneſſe of every Circumſtance leading to the end propounded, before they are tickled and transported with the beautie of their pre<g ref="char:EOLhyphen"/>tence.</p>
+            <p>The World muſt know, and more eſpecially the Engliſh Nation, that Providence tolerating the lines and lineaments of Monarchi<g ref="char:EOLhyphen"/>call Government, (here in our <hi>Borean</hi> Clime) to be blotted out, that that which is new written might be more legible: ſome pre<g ref="char:EOLhyphen"/>tenders to the late Kings ſervice, as of his Bed-chamber, his Wardrobe, his Guard, his Kitchin, &amp;c. have thought fit to make an Improvement of theſe turbid Intervals; and under pretence of of gathering money for the late Kings diſtreſſed Servants in gene<g ref="char:EOLhyphen"/>rall, have pocketed up many pounds for their owne private uſes; and while thoſe, for whom they ſeem to obſecrate, languiſh, invi<g ref="char:EOLhyphen"/>roned with all thoſe fatalities incident to indigent men: they feed high, ſleep ſoft, wear rich Apparell, and wallow in all exceſſe of Riot: It were vain to inform theſe <hi>Latrocinians,</hi> that while they abuſe others, they forget that ſelf-couzenage, with which in the interim they abuſe themſelves, God permitting the Devill to re<g ref="char:EOLhyphen"/>venge the Impoſture. My task is (in order to my obligation) ſo to paint forth their curſed contrivances, their putrid policies, and fraudulent inſinuations, pointing at their perſons ſo punctually that no man, if but Maſter of one eye, ſhall fail to diſtinguiſh them ſeverally, though mingled amongſt thouſands of men more honeſt; that ſo thoſe Gentlemen, thoſe Citizens or others who have taſted of their traps may be ſenſible of their abuſe, and pro<g ref="char:EOLhyphen"/>ſecute accordingly: Theſe ſubtle Vipers detected and delivered up to publick, deſerved infamie, who committing a Rape upon the body Politick, ſeem to put out the Lawes, as others upon a like occaſion, put out the Lights.</p>
+            <p>I muſt confeſſe that perſon is very rare, that can boaſt of ſuch an abſolute Saintſhip whilſt he is amongſt Mortals, but that now and then there are ſome Actions will fall from him which con<g ref="char:EOLhyphen"/>feſſe Humanity, and require Candor, ſome Leaves in the Vo<g ref="char:EOLhyphen"/>lume of the faireſt life, that call for a clement cenſure; there will be common frailties: But cannot fix too rigid a cenſure on theſe
+<pb n="3" facs="tcp:118544:4"/>treacherous Mendicants, who to purchaſe a flame of Triumph, a frolick for ſome ſew dayes, not onely deprive many diſtreſſed Fa<g ref="char:EOLhyphen"/>milies of a preſent reliefe, but render them (by this damn'd de<g ref="char:EOLhyphen"/>luſion) incapable of future reflections; ſuch hath been the caſi<g ref="char:EOLhyphen"/>neſſe and credulity of ſome Gentlemen and others; ſuch the ſub<g ref="char:EOLhyphen"/>tilty and diſſembled Sanctity of theſe Quacks, that they have met with as great a proneſſe in them to be cozen'd, as they brought willingneſſe to delude; but I ſhall damne their deſign down to the loweſt Hell from whence originally it came; and turn their feig<g ref="char:EOLhyphen"/>ned Tears into reall Contrition; not that they can be penſive for their pernicious practices, but my meaning is in reference to the blazing of their ſeveral baſeneſſes, to the utter ruine of their golden Income; when in ſtead of Charitable Compenſation and Com<g ref="char:EOLhyphen"/>paſſion, they ſhall meet with Contempt and Caſtigation. The <hi>Prime Ring-Leaders, the Maſter-Theeves, the Plowers, the main Wheeles upon which this Prodigious Machine moves are in all ſe<g ref="char:EOLhyphen"/>ven.</hi> You will think it ſtrange to finde ſome Pulpit-men in an high degree acceſſory to this guilt: but doe not we a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l know that there hath been no floud of miſery that hath happened this dozen years, but did ſpring from, or at leaſt was much ſwelled by their <hi>Holy-Water:</hi> And I rank the Rogues (for they march like <hi>Noah</hi>'s unclean beaſts by paires.) Thus,
+<list>
+                  <item>2 <hi>Prieſts.</hi>
+                  </item>
+                  <item>2 <hi>Citizens.</hi>
+                  </item>
+                  <item>2 <hi>Lawyers.</hi>
+                  </item>
+                  <item>2 <hi>Linſey Wolſey men.</hi>
+                  </item>
+                  <item>1 <hi>Souldier.</hi> (Of either grain.)</item>
+               </list> There's the Summe.</p>
+            <p>Theſe (like the <hi>ſeven Deadly Sinnes</hi>) have their ſeveral Exu<g ref="char:EOLhyphen"/>berances, ſome ten or twelve underlings, Auxiliary aides whom theſe miſcreants maintain at a joynt expence theſe are to them like tooles to the Mechanick, they can doe nothing without them; they are their wings, their wheeles the properties that they act with, who earn their livings quite contrary to divine appointment, <hi>viz.</hi> by the ſweat of their eyes they will command you tears as facilely as Polititians can vary ſhapes, the Iriſh or French Mercenaries (hired to bewaile the dead) are meer meacocks to them, they will houle a Requiem able to reverſe the doom of Fate, and unite an Inlarged ſoule to his buried body, a woman interring her ſeaventh huſband cannot blirt briny drops more methodically: theſe Liquids
+<pb n="4" facs="tcp:118544:5"/>while their Lords are Courting the Gentleman of the houſe, who cannot chuſe but afford them eare-favour, for they ſeem Subſtanti<g ref="char:EOLhyphen"/>aliſts wearing good apparell, and they take ſpeciall care not to faſt till they looke like <hi>withered Apes</hi> ſow'd up in <hi>parch'd Kid-skins;</hi> they are ſeemingly men of much worth and they want no delu<g ref="char:EOLhyphen"/>ſive Oratorie, having their ſet forms of ſpeech which they con Nocturually with as much diligence as players doe their parts; I ſay while their conducters are in colloquie within, theſe ſtand without conſpiring in a full and dolorous harmony, raiſing a loud and and piteous crie (hence they receive their Denomination <hi>viz.</hi> WEEPERS) ſome a bemcaning the loſſe of their deceaſed ma<g ref="char:EOLhyphen"/>ſter, the late King, others deplore the ſtarving condition of their wives and children and ſome not minding any method, ſend forth deepe groanes and ſighs, ſo that you would think your ſelfe little better then a Burgeſſe of <hi>Barachrum,</hi> were you within ken of their yelping the ſervants of the houſe mean time amazed at this melody, indeavour to ſtint their Earth-din (which they pittie as reall) with what fare the houſe affords, each contributing a piece of come, by which time the maſter of the houſe being ſufficiently ſatisfied with what he hath heard &amp; ſeen, diſmiſſes (perhaps not without tears) his Honoured gueſts (having beſought them with much earneſtneſſe not to think five or tenne pounds too triviall a ſumm) who take a So<g ref="char:EOLhyphen"/>lemn farewel with ſad countenances, and at the next Towne with<g ref="char:EOLhyphen"/>in ten miles (for they are ſo politick not to Revell in that very place where they receive their Rents (as they have the Impudence to call it) and there they riot like ſo many younger Brothers.</p>
+            <p>Tis the boaſt of the <hi>Dutch man,</hi> that <hi>hee can ſaile with all winds,</hi> theſe unparalleld cheaters carefully obſerve the Quarter from whence the faireſt Gales of profit blow, and ſpread the Sailes of deceit to entertain them. <hi>Cornwall</hi> and theſe countries that have been moſt eminent for their loyalty to the late King, are onely curſt with their approach, where not a Gentleman of any emi<g ref="char:EOLhyphen"/>nency, but hath had notice of them, nor can the Compaſſe breath more varieties, (I ſpeak it to their praiſe as glorious Villaines) than their dextrous ſoules have Changes and Garbes, and ſutable Compliances: What the Orator calls his top, and perfection to make happy Application to the ſeverall humours and Genius of all ſorts of men, qualifying his addreſſe with what hee knowes will moſt charme the perſon he treats; you may find all his <hi>Figures</hi>
+               <pb n="5" facs="tcp:118544:5"/>and <hi>Tropes</hi> digeſted into their Actions: They have this advantage of the <hi>Camelion,</hi> that they can aſſume whiteneſſe; for you may finde them wearing the Veſt of Innocency, to conceale the ugli<g ref="char:EOLhyphen"/>neſſe and blackneſſe of their attempts. Theſe are fellowes that have long ſince abjur'd their God, Religion, and Conſcience, and all that ſhall interpoſe and ſerene them from thoſe beames that may ripen their avaricious aimes. O how finely they can com<g ref="char:EOLhyphen"/>poſe their Garbs and Geſtures; <hi>Tis a great matter to tell a lye; with a grace:</hi> and when they ſee opportunity to reveale themſelves they doe it gradually and by peece-meale; for that which at one view would appeare horrid, give it by parcels, and it will be dige<g ref="char:EOLhyphen"/>ſted well enough.</p>
+            <p>The truth is, they are the moſt accompliſhed, the moſt poliſh<g ref="char:EOLhyphen"/>ed, the neareſt and moſt politick knot of Knaves, that ever were famous for fraudulent Machinations: And indeed how can they be otherwiſe, having ſo Venerable a Doctor, and ſo Clancular a Prieſt for their Law-givers? Theſe two <hi>Raven-Coated Flam<g ref="char:EOLhyphen"/>mins,</hi> like <hi>Mahomet</hi> and <hi>his Monke,</hi> are the cunning Contrivers of this hotch-potch <hi>Alchoran,</hi> and what is worth your notice, ſeem very ſanctimonious, they will pray with much fervency, but this alwayes in publick; they know well enough that privacy for a Sinne, and cleanly convayance for a Cheat, makes it as white as Innocency it ſelfe; for they are neare of Kin to that Thiefe, who alwaies before he went about the <hi>Worke of his Cal<g ref="char:EOLhyphen"/>ling,</hi> (for ſo he called Stealing) went to prayers, That God would bleſſe and proſper him. So theſe ſay Grace to the De<g ref="char:EOLhyphen"/>ſigne be it never ſo wicked, and give thanks for the Succeſſe be it never ſo abominable.</p>
+            <p>Having taken a view of their performances, be pleaſed now to peruſe their Perſons.</p>
+            <p>Enter — <hi>Doctor</hi>—Chaplain to the late King; and ſome<g ref="char:EOLhyphen"/>times Paſtor of a place neare <hi>Chertſey,</hi> now In-mate with a Widow, neare St <hi>Peters Pauls</hi> Whatffe, indifferent tall of ſta<g ref="char:EOLhyphen"/>ture, Motley-headed, his Crown covered with a ſwarthy Cap, faſhioned like a <hi>Monks Cowle,</hi> of an Aduſt Aſpect, a mincing Gate, and mimmick Geſture.</p>
+            <p>There's the firſt.</p>
+            <p>The next much younger in years, but far older in knavery—</p>
+            <div type="part">
+               <pb n="6" facs="tcp:118544:6"/>
+               <head>
+                  <hi>A</hi> MEAGRE LEVITE.</head>
+               <p>WHo will ſell God, and all his Saints for ſixpence, the ve<g ref="char:EOLhyphen"/>ry Picture of Antichriſt, once Curate (under one <hi>Dont</hi>) of <hi>Kings-cleere</hi> in <hi>Hampſhire.</hi> This fellow taking occaſion to Revel with <hi>Dorts</hi> wife (whom he converted to his owne faith, with many other of his Maſters moveables) was therefore (by him) clapt up in <hi>Wincheſter</hi> Goal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, where he lay along time, having his Anckles loaden—This f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llow will cheat any man ſave his Father, (who is not living) and tell Lies as big as Ele<g ref="char:EOLhyphen"/>phants; he will knock his breaſt, atteſt God, and Invoke Impre<g ref="char:EOLhyphen"/>cations upon himſelfe; if he does not doe that which he never in<g ref="char:EOLhyphen"/>tends he can cog the Die, and make the Word of God ſpeak what he liſt: if you ask after his Topicks, <hi>Ex Officina Carnifi<g ref="char:EOLhyphen"/>cium argumentum petit.</hi> He is very gracious with a good Wo<g ref="char:EOLhyphen"/>man in Snore-ditch, with whom he reſides, <hi>In ordine ad ſpiritua<g ref="char:EOLhyphen"/>lia.</hi> Behold next.</p>
+            </div>
+            <div type="part">
+               <head>A Brace of broken CITIZENS.</head>
+               <p>THe one an Apothecary, and (till his Vinal and Venereous tem<g ref="char:EOLhyphen"/>per, opened the little Wicket for the five other Deadly Sinnes to enter) Houſe-keeper in St <hi>Thomas Apoſtles;</hi> His face is as brown as his ſoule is black, little of Statute, and ſomething Hair<g ref="char:EOLhyphen"/>lipt: His Companion (a fellow that hath ſurfeited on ſo many Fun<g ref="char:EOLhyphen"/>ctions, that his Intellect is as foule, as an <hi>Iriſh</hi> Firkin of <hi>Bonny Clabber</hi>) may paſſe for an Exorciſt for Complexion, his fellowes often make him their Oracle, and well they may; for the Devill hangs upon his Lips: this face is of the ſame Metall with his yel<g ref="char:EOLhyphen"/>low Trumpet. But to the reſt.</p>
+            </div>
+            <div type="part">
+               <head>Two LAWYERS</head>
+               <p>COuld you contract five thouſand ſuch as theſe into one Volume, the ſordid <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulk could not make up <hi>Marriots</hi> ſhadow; and you'l ſay, Hes better at Beefe than Barriers: Theſe two differ in Sta<g ref="char:EOLhyphen"/>ture, as much as <hi>Hercules</hi> did from <hi>Jeffery;</hi> but what Nature ſcants the laſt in talneſte and bulk, he more than ſatisfies in trea<g ref="char:EOLhyphen"/>cherie
+<pb n="7" facs="tcp:118544:6"/>and baſeneſſe: this is he that (pretending to follow her ſuit <hi>gratis</hi>) jugled the widow <hi>Meſſenger</hi> out of her whole eſtate: you may finde theſe pair of Serpents moſt commonly at their Rutting place, near the <hi>Flower-de-luce,</hi> in Vinegar Alley: And then followes,</p>
+            </div>
+            <div type="part">
+               <head>Two DRAPERS.</head>
+               <p>THe one of the <hi>Blanket,</hi> the other of the <hi>Sheet:</hi> Fellowes that having tyr'd <hi>Ludgate,</hi> and the <hi>Kings Bench,</hi> are now reſolv'd to lay claim to the Pillory; they are neat Forgers, and can ſhake any man by the hand, though at an hundred miles diſtance: the one has comb'd away all his haire, (which he ſupplies with a Pe<g ref="char:EOLhyphen"/>riwig, as broad as the Branches of a Beech tree) as the other has forfeited his <hi>Dowcets</hi> to the Surgeon. You may know him (in order thereto) by his thin Beard and Aſhey Aſpect.</p>
+               <p>But now enter the man of Iron.</p>
+            </div>
+            <div type="part">
+               <head>A MAJOR</head>
+               <p>IN his Minority. This Gentleman is yet but halfe a Knave, and became an Aſaſſinate rather by a wile than his owne innate wickedneſſe: he is yet (in reference to this buſineſſe) but a young Sinner; and therefore I ſhall ſpare him, and conclude with this</p>
+            </div>
+            <div type="poem">
+               <head>PALINODE</head>
+               <lg>
+                  <head>To the WEEPERS.</head>
+                  <l>VVEep now untill you waſte into a Dew,</l>
+                  <l>The Nation mournes and bleeds for ſuch as you.</l>
+                  <l>(Super Olympick Knaves,) by you the dead</l>
+                  <l>Embalmed King does once more loſe his head.</l>
+                  <l>Widow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſigh out their ſoules and Orphans crie</l>
+                  <l>For what you waſte, in refluent Luxurie:</l>
+                  <l>But we ſhall give new luſtre to your lives,</l>
+                  <l>And purge your putrid ſoules with Gags and Gyves.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:118544:7"/>
+            <head>CVPPING-GLASSES, Clapt to the cloven Feet of the ſix <hi>Daemons,</hi> who Go<g ref="char:EOLhyphen"/>vern the times by turns, from Munday to Saturday, Annually.</head>
+            <div type="part">
+               <head>
+                  <hi>MUNDAY.</hi> BRITANICVS-DIVRNALL.</head>
+               <p>THis Well goes with two Buckets, and it were loſſe of time to tend the pouring out of either. This Novel-<hi>Britanicus</hi> is but the little Toe on the left foot of that <hi>Gigantick Paper-ſpoiler,</hi> who (like the Dragon in the <hi>Apocalyps</hi>) vomited an <hi>Hue and Cry after the late King:</hi> This fellow becauſe <hi>Hair is no Embleme of Wit,</hi> affects baldneſſe to admiration. He is never conſtant to one Habite: and therefore you may (perhaps) not erre in calling him Changeling, <hi>Prag, Mock—Prag—tanicus</hi>—any thing: The River in <hi>Athenaeus</hi> is his Embleme, whoſe <hi>upper waters were ſweet and grateful, but towards the bottome brackiſh.</hi> But I leave him, con<g ref="char:EOLhyphen"/>cluding him witty and a Scholar: but then followes the</p>
+            </div>
+            <div type="part">
+               <head>DIURNAL.</head>
+               <p>A Piece of much Antiquity, but had never plagued the Nation with ſo prolix a Date, if the leaſt grain of Wit had grumbled in its Entrailes; It is the Countrey mans Chronicle, who believes its <hi>Narrations to be as Canonicall</hi> as the Scriptures; <hi>A dull, droſſie, dirty piece;</hi> it's ſtrange if once in ſix weeks you find three lines of ſenſe: the fellow that writes it, is no doubt of the humour of the <hi>Samſeans,</hi> in <hi>Epiphanius,</hi> who were neither Jewes nor Gen<g ref="char:EOLhyphen"/>tiles, not Chriſtians, but preſerved a commodious correſpondency withall: He is very impartial in his Intelligence, which ſhall ex<g ref="char:EOLhyphen"/>cuſe him from further Caſtigation. The next is on Tueſday.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:118544:7"/>
+               <head>The COMMON-WEALTHS WEEKLY INTELLIGENCE,</head>
+               <p>THe onely Pamphlet worth countenancing, and yet leaſt read: The Author deſerves a more pellucid Imployment; There is worth in him: The occaſion of his poverty—which puts me in minde of a ſtory worth your notice, <hi>viz. Fortune and Vertue, Wiſedome and Folly being their Seconds, upon a time conten<g ref="char:EOLhyphen"/>ded for the Supremacy; every man thought that Fortune and Fol<g ref="char:EOLhyphen"/>ly would have the worſt, and pitied their caſes, but it fell out other<g ref="char:EOLhyphen"/>wiſe; Fortune was blind, and cared not where ſhe ſtroke, nor whom, &amp;c. Folly raſh and inconſiderate, eſteemed as little what ſhe ſaid or did; Vertue and Wiſedome gave place, were hiſſed out by the Common people. Folly and Fortune admired.</hi> And ſo are all their Followers ever ſince: Fools and Knaves commonly fare and de<g ref="char:EOLhyphen"/>ſerve beſt in Worldlings eyes. Would not it congeale any know<g ref="char:EOLhyphen"/>ing man to ſtone, to ſee a withered face, a diſeaſed cankred com<g ref="char:EOLhyphen"/>plexion, a rotten carkaſſe, a viperous minde, and Epicurean ſoule, ſet out with Orient Pearls, Jewels, Perſumes, curious elaborate Works, as proud of his Cloathes as a childe of his new Coats; and a goodly perſon of an Angel-like divine countenance, an hum<g ref="char:EOLhyphen"/>ble minde, a meek ſpirit cloathed in Rags, beg and ready to be ſtarv'd? to ſee a ſilly contemptible ſloven in Apparrel, ragged in his Coat, polite in his ſpeech, of divine ſpirit, and wiſe: Another neat in Cloathes, ſpruce, full of courteſie, empty of Grace, or wit, talk non-ſenſe, &amp;c. Our Gallants (forſooth) contemne Schollars as Ideots, Fools, and Aſſes; and as oft are they rejected and deri<g ref="char:EOLhyphen"/>ded, becauſe they cannot ride an Horſe which every Clown can doe, Carve at Table, Cringe, and make Congies, which every common Swaſher can doe: they are laught to ſcorne, and accoun<g ref="char:EOLhyphen"/>ted ſilly fooles by the Gallants of our times, and to ſay truth many times they deſerve it, <hi>A meer Scholar, A meer Aſſe.</hi> But of all profeſſions (in this Age) the Schollar is the worſt; Fine times the while. But enough of this, the third in order—on Wedneſday is—</p>
+            </div>
+            <div type="part">
+               <head>DEMOCRITUS.</head>
+               <p>A Curre paſſing through a Village: if he clap his Taile between his leggs, and run away, every Whelp will inſult over him; but if he briſſe up himſelf, and ſtand to it, give but a Counter-ſnarle,
+<pb n="10" facs="tcp:118544:8"/>and not a Dog dares meddle with him: This foole (who names himſelfe <hi>Democritus</hi>) ſome weeks ſince made merrie with <hi>Phre<g ref="char:EOLhyphen"/>neticus</hi> (a Pamphlet I continued that week to pleaſure ſome fine friends of mine) which had been paſs'd over as not worth a Re<g ref="char:EOLhyphen"/>tort, had not the notorious Cuck—exulted and made his Brags to divers in particular, I could have made my Pity my Pillow, and have ſlept away a Deſign: But now Mr <hi>Metropolitan</hi> I cannot wave you.</p>
+               <p>The <hi>Man in the Moon</hi> having throwne him into the Gate-houſe, his firſt action after his Infranchiſement (by which you may gheſſe the conſtitution of the fellowes ſoule) was to raile at the preſent King of <hi>Scots,</hi> inveigh againſt the Aſhes of the late King, and load the diſtreſſed Royal Party with all the odious Epethites poſſibly to be vented from the venomous jawes of a Mercenary Scribler, but that not anſwering his expectation, the Kings worſt enemies ha<g ref="char:EOLhyphen"/>ting the turn coat for his levity,) <hi>Mercurius Democritus</hi> found Production from his tainted skull: and under that notion pray look upon him in this Glaſſe;</p>
+               <p>The very name of <hi>Democritus</hi> intimates, <hi>A Paſquill, or ſome ri<g ref="char:EOLhyphen"/>diculous Treatiſe. Democritus,</hi> (or the laughing Philoſopher) was a little weariſh old man, a generall Schollar, a great Student, a man of excellent wit, of profound conceit: and is it not an inſuf<g ref="char:EOLhyphen"/>ferable ſhame, that this Impoſtor ſhould broach ſo many inſolent Fictions under the name of ſo noble a Philoſopher. <hi>Democritus</hi> was an expert Phyſician, a Politician, an excellent Mathematician; He knew the Natures and differences of all Beaſts, Plants, Fiſhes, Birds, and (as ſome ſay) underſtood the Tunes and voices of them; and to the intent he might the better Contemplate, he put out his eyes, and was voluntary blinde, yet ſaw more than all <hi>Greece</hi> beſide. If this Quack would make him his example, no man ſhould love him more than my ſelf, I could then be content to be one of thoſe Idle fellowes who read what this Idle fellow writes, that baſe <hi>Illurate Scribler</hi> who lards his leane Pamphlets with the fat of o<g ref="char:EOLhyphen"/>ther Books; A Raſcal that cares not whom he calumniates, and hath the Impudence, though himſelfe be a knowne Witt—as well as an unparalel'd Cuc— to aſperſe men of generous tempers, and who hate nothing more than ſuch Swiniſh ſervility. <hi>What is his Pamphlet elſe, ſave a Rhapſody of Rags gathered together from ſeveral Dung-hils, harſh, raw, rude, iale, dull, and dry, Stylus vi<g ref="char:EOLhyphen"/>rum
+<pb n="11" facs="tcp:118544:8"/>argit:</hi> whom, if I finde cauſe (for the future) I ſhall re<g ref="char:EOLhyphen"/>talliate rather <hi>Argumento Bacillino quam Ariſtotlico.</hi> I confeſſe there was never ſo much cauſe of laughter as now, never ſo many Fooles and Mad men: 'tis not one <hi>Democritus</hi> will ſerve to laugh in theſe dayes: We have now need of a <hi>Democritus</hi> to laugh at a <hi>Democritus,</hi> one J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter to flout another, one Foole to fleare a<g ref="char:EOLhyphen"/>nother; a great Sten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orian <hi>Democritus,</hi> as big as that <hi>Rhodian</hi> Co<g ref="char:EOLhyphen"/>luſſes: This fellow has all the ſmptoms of a Beaſt: He kicks like an Aſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neighes like a Horſe, ravens like a Beare, rakes and houles, (he is troubled with that <hi>Lupinam inſaniam,</hi> a Woolfe-madneſſe,) like a Worſe, and is as impudent as a Dog. Nature has given him <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zes Inchanted egge</hi> inoculated in his cheek, perhaps as the badge of his &amp;c. But 'tis time to have done with him; Good-mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row to your <hi>Metro-ſimpleſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p,</hi> I mean Metropolitanſhip. Then next, on Thurſday,</p>
+            </div>
+            <div type="part">
+               <head>POLITICUS.</head>
+               <p>
+                  <hi>TAcitus,</hi> and the reſt of the <hi>Roman</hi> Hiſtorians, never intended their Annals as this Gentlemans Aphoriſm's—I owe much Gratitude here—I wiſh to live to retalliate his fa<g ref="char:EOLhyphen"/>vours—My Liberty was once won by his induſtry.</p>
+               <q>
+                  <lg>
+                     <l>Charus erit Verri qui V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rrem tempore quo vult</l>
+                     <l>Accuſare poteſt—</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Veres</hi> even Hugs and Courts him that has power</l>
+                     <l>to controvert his liberty each houre.</l>
+                  </lg>
+               </q>
+               <p>And then followes on Friday,</p>
+            </div>
+            <div type="part">
+               <head>The SCOUT; PERFECT PASSAGES.</head>
+               <p>
+                  <hi>SUre the Devill has gain'd that Grub ſtreet for his Grand Garri<g ref="char:EOLhyphen"/>ſon;</hi> The very aire is infected with thoſe rank, rotten peſtilenti<g ref="char:EOLhyphen"/>an lies, that each day muſter from that <hi>Augaean</hi> Stable, the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out.</hi> Why he that reads that Sheet but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe, muſt needs be an entire Fiend, and love Lying better than Lawyers love money. Never ſo prodigious a Pamphlet — <hi>Each Page is a Peſt, and each Line a Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell.</hi> But ſure we ſhall not finde it ſo in theſe,</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:118544:9" rendition="simple:additions"/>
+               <head>PERFECT-PASSAGES.</head>
+               <p>THis <hi>Red-bearded Chronicler</hi> hath found ſo happy a <hi>Meta<g ref="char:EOLhyphen"/>morphoſis,</hi> as from an <hi>Hebrew Iron-Monger</hi> to become a <hi>Pari<g ref="char:EOLhyphen"/>doxical Divine:</hi> You would think (if you heard him preach) that he had his Text from a <hi>Gazet,</hi> you heard ſo much of a <hi>Curranto.</hi> O he's excellent in private, at Parlour-Sermons, and Meeting-Houſes; and here commonly he is more <hi>Enthuſiaſt</hi> than <hi>Scriptu<g ref="char:EOLhyphen"/>riſt.</hi> His Auditors beleeve his Dreams to be as Canonicall as the Revelation: Like thoſe <hi>Melancton</hi> ſpeaks of, <hi>Quicquid ſomniant volunt eſſe Spiritum Sanctum.</hi> But what have I to doe with this Venerable man; <hi>Fames</hi> Fingers are too foule to touch ſuch holy Rites. He is very ſententious, fluent and ſublime in his weekly In<g ref="char:EOLhyphen"/>telligence; and ſo I leave him.</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>LIke that Albanian Dog, ſometime given to <hi>Alexander</hi> for a Preſent, <hi>Vindico me ab illis ſolo contemptu.</hi> I ſhall ſecurely contemne thoſe malicious and ſcurile Obloquies of Railers and De<g ref="char:EOLhyphen"/>tractors. Ile lie ſtill and ſleep, and vindicate my felfe by contempt alone; <hi>Flecti poteſt, frangi non poteſt.</hi> 'Twas an extraordinary occaſion put me upon this Pamphlet. But now farewell for ever: Thou canſt not think worſe of me (Reader) than I doe of my ſelfe; I feare thy Vote, if thou be a competent Judge,</p>
+               <q>—Et linguas Mancipiorum contemno.</q>
+               <p>This will ſerve to put under Pies, to lap Tobacco in, and keep Roaſt-meat from burning.</p>
+               <closer>
+                  <salute>VALE.</salute>
+               </closer>
+               <pb facs="tcp:118544:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
